@@ -82,3 +82,6 @@ rollnum=input(("enter roll no"))
 # print(college)
 college1={name:rollnum}
 print(college1)
+
+
+#commited changes
